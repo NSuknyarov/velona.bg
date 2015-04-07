@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Feb 2015 13:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>How to set up auto-recurring billing for your online store</title>
+		<link>https://www.prestashop.com/blog/en/set-auto-recurring-billing-online-store/</link>
+		<comments>https://www.prestashop.com/blog/en/set-auto-recurring-billing-online-store/#comments</comments>
+		<pubDate>Mon, 02 Feb 2015 13:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19444</guid>
+		<description><![CDATA[<p>The scenario is common to new, startup businesses. A customer wants to sign up for a recurring service or products. You’re left wondering what the best solution would be to ensure they get charged in a timely, reliable manner. Like many small business owners, you don’t have the time to set a calendar remind to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/set-auto-recurring-billing-online-store/">How to set up auto-recurring billing for your online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The scenario is common to new, startup businesses. A customer wants to sign up for a recurring service or products. You’re left wondering what the best solution would be to ensure they get charged in a timely, reliable manner. Like many small business owners, you don’t have the time to set a calendar remind to ask for payment.</p>
+<p>Instead, services like auto-recurring billing can be your best friend. With auto-recurring billing, you can automate your subscription reordering process so you never forget to bill customers again.</p>
+<p>To provide you more importation on auto-recurring billing, we’ve turned to one of our online payment partners, Simplify Commerce about the basics of auto-recurring billing for online stores and how to set up auto-recurring billing using their free online payment module.<br />
+<span id="more-19444"></span></p>
+<h2 style="color: #ff6e25">Why would I choose auto-recurring billing?</h2>
+<p>Auto-recurring billing or subscription billing allows online merchants to automatically charge customers on a monthly basis for products or services. It’s a great win-win: customers regularly receive products or services; merchants never forget to bill their customers.</p>
+<p>Some online merchants who’ve used auto-recurring billing include:</p>
+<ul style="padding-left: 40px">
+<li>Subscriptions boxes</li>
+<li>Grocery delivery services</li>
+<li>Cleaning services</li>
+<li>Rent collection</li>
+<li>Gym memberships</li>
+<li>Pest control services</li>
+<li>Book club subscriptions</li>
+</ul>
+<h2 style="color: #ff6e25">How is auto-recurring billing different from up-front billing?</h2>
+<p>Auto-recurring billing is great for merchants that provide a recurring service or have recurring shipments. Once auto-recurring billing is configured and scheduled, it practically runs by itself.</p>
+<p>Up-front billing is great for merchants providing an on-and-done service or product. Products that fall into this category include furniture, clothing and digital goods. However, with the popularity of subscription boxes and services any online store can leverage auto-recurring billing.</p>
+<h2 style="color: #ff6e25">How can online merchants prevent subscription cancellations?</h2>
+<p>Although everything is automated, it’s important for business owners to engage with their customers. Use each order as a way to get in touch with your customers. Try sending emails to customers about the service or product they just received. Ask for reviews or encourage them to engage with you on social media. Is there a special holiday coming up? Surprise customers with a little treat to thank them for their continued subscription.</p>
+<p>Want another tip for more sales? Increase conversions by including discount coupons in email newsletters.</p>
+<h2 style="color: #ff6e25">How to get started today</h2>
+<p>Setting up and managing auto-recurring billing is easy with Simplify Commerce. Set up in 5 simple steps:</p>
+<ol>
+<li>Download Simplify Commerce from your PrestaShop Back office</li>
+<li>Configure your Simplify Commerce module</li>
+<li>Log into your Simplify platform</li>
+<li>Click &#8220;+New Plan&#8221;</li>
+<li>Enter the plan name, cost and the frequency, then click “Add Subscription.”</li>
+</ol>
+<h2 style="color: #ff6e25">Sponsored by: Simplify Commerce</h2>
+<p>Simplify Commerce, backed by MasterCard (a global leader in the payment industry for decades) is an all-in-one payment solution that enables businesses and non-profits to accept all major credit and debit cards. Their turnkey secure payments solution offers a simple, flat 2.85% + 30₵ rate with no extra fees. They also offer two business day funding and the highest Level 1 PCI Certification.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-19449" alt="simplify commerce logo" src="http://www.prestashop.com/blog/en/files/2015/02/simplify-commerce-logo.png" width="317" height="141" /></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/set-auto-recurring-billing-online-store/">How to set up auto-recurring billing for your online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/set-auto-recurring-billing-online-store/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ecommerce For Everyone</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-for-everyone/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-for-everyone/#comments</comments>
+		<pubDate>Fri, 30 Jan 2015 14:17:43 +0000</pubDate>
+		<dc:creator><![CDATA[Bruno Lévêque]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19494</guid>
+		<description><![CDATA[<p>When I founded PrestaShop seven years ago, I had a singular vision for the company. My idea was to create a global community of talented individuals who love ecommerce. Tapping into the power of open source, we could change the industry with cutting edge software that enables everyone to participate in the ecommerce revolution. &#160; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-for-everyone/">Ecommerce For Everyone</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-19495" alt="bleveque prestashop" src="http://www.prestashop.com/blog/en/files/2015/01/bleveque-prestashop.jpg" width="170" height="203" align="left" /></p>
+<p>When I founded PrestaShop seven years ago, I had a singular vision for the company. My idea was to create a global community of talented individuals who love ecommerce. Tapping into the power of open source, we could change the industry with cutting edge software that enables everyone to participate in the ecommerce revolution.</p>
+<p><span id="more-19494"></span><br />
+&nbsp;<br />
+&nbsp;</p>
+<p><iframe src="//player.vimeo.com/video/117911117" width="700" height="394" frameborder="0" title="Introducing PrestaShop - Ecommerce for everyone" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>Today, you&#8217;re part of a 700,000+ member PrestaShop community and I&#8217;m truly thankful for your support.</p>
+<p>I want to take this opportunity to make a special announcement that represents another ground-breaking achievement for all of us. Today marks <strong>the official launch of PrestaShop Cloud</strong>, a free fully-hosted version of our software. This is truly unprecedented in the market.</p>
+<p>We believe PrestaShop Cloud will enable small and emerging businesses to quickly establish a new online store, at the lowest cost possible. We&#8217;re also taking this opportunity to rename the downloadable version of PrestaShop. Moving forward, you will see new product announcements and information for both <strong>PrestaShop Cloud</strong> and <strong>PrestaShop Download</strong>.</p>
+<p>Today, we&#8217;re also launching a totally revamped <a href="http://www.prestashop.com/en/">website for PrestaShop</a> with a new look and feel that reflects our ambitions: clear, straightforward, simple, easy. I hope you will love it as much as we do. Our forum, which is the epicenter of community interactions, remains a very important part of this new website.</p>
+<p>All of this would not be possible without your continuous support and contributions. On behalf of the 120+ talented employees at PrestaShop, I would like to thank you. We&#8217;re looking forward to another great year filled with innovation, community collaboration and ecommerce success. I would love to have your feedback, you&#8217;re welcome to contact me directly, <a href="mailto:bl@prestashop.com">bl@prestashop.com</a>.</p>
+<p>All the best,</p>
+<p>Bruno Leveque, PrestaShop Founder</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-for-everyone/">Ecommerce For Everyone</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-for-everyone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SEO for Ecommerce Website Redesign</title>
+		<link>https://www.prestashop.com/blog/en/seo-ecommerce-website-redesign/</link>
+		<comments>https://www.prestashop.com/blog/en/seo-ecommerce-website-redesign/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 13:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19435</guid>
+		<description><![CDATA[<p>So you’re planning a website redesign. Maybe you’re migrating from one platform to another or upgrading from an old version of your current ecommerce software. In either case, you’re probably up to your ears in fonts and photos, but you can’t forget about your SEO ranking. To be sure the new version of your online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/seo-ecommerce-website-redesign/">SEO for Ecommerce Website Redesign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>So you’re planning a website redesign. Maybe you’re migrating from one platform to another or upgrading from an old version of your current ecommerce software. In either case, you’re probably up to your ears in fonts and photos, but you can’t forget about your SEO ranking.</p>
+<p>To be sure the new version of your online store maintains your current SEO position, you need to prepare a little before you let your developer go to town. Specifically, you’ll need to think about <strong>structure</strong> and <strong>301 redirection</strong>.</p>
+<p>In this article, we explain what a site migration is and how to prepare for it, so you have a smooth, successful redesign experience.</p>
+<p><span id="more-19435"></span></p>
+<h4 style="color: #76b32a">Who needs to read this article?</h4>
+<p>The following advice is aimed primarily at merchants who already have an ecommerce site and are undertaking a redesign.</p>
+<p>This article is <strong>not aimed at merchants changing their store domain name</strong>. The SEO work required for that is different.</p>
+<h4 style="color: #76b32a">What is site migration?</h4>
+<p>Site migration simply means transferring your old site to a new site. If you take the time to develop structure and plan ahead for 301 redirects, you’ll have a smoother transition with the following benefits:</p>
+<ul style="padding-left: 30px">
+<li>Direct traffic to your old pages will be automatically redirected to your new website.</li>
+<li>Links to pages on your old store will not lead to 404 errors.</li>
+<li>You guarantee the continuity of your site SEO, which means you’ll hardly notice any drop in traffic after migration.</li>
+</ul>
+<h2>A little structure</h2>
+<p>Before going any further, we suggest you read this article on <a href="http://www.prestashop.com/blog/en/find-the-right-seo-keywords-for-your-online-store/">creating an &#8216;SEO friendly&#8217; structure for an ecommerce site</a>.</p>
+<h4 style="color: #76b32a">Designing the structure of your new online store</h4>
+<p>A site redesign is the perfect moment to reassess categories and determine which should be kept in the new version of your site and which should be eliminated. The idea is to keep what works and rethink the areas that don&#8217;t.</p>
+<p>The whole point of redesigning your store is to improve upon your old store, so don’t remove categories that bring in SEO traffic and sales. You must recreate those categories in your new store in addition to developing other areas.</p>
+<h4 style="color: #76b32a">Improve existing site structure</h4>
+<p>Here are some places to find inspiration:</p>
+<ul style="padding-left: 30px">
+<li>Take a look at your competitors&#8217; stores. What are they doing right? Carry out a simple benchmarking project and note what works in terms of SEO. Resist the urge to copy and paste. Good SEO demands original content</li>
+<li>Revisit your initial semantic analysis and look for more <a href="http://www.prestashop.com/blog/en/find-the-right-seo-keywords-for-your-online-store/">keywords to target.</a></li>
+<li>For merchants who already use AdWords campaigns, <a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">this report</a> may also be useful. It corresponds to keywords typed by your visitors via AdWords, and not keywords that have been paid for.</li>
+</ul>
+<h4 style="color: #76b32a">Google Analytics: think of it as a housewarming gift</h4>
+<p>Okay, so you’ve done some surfing and revisited your initial keywords. You know you need to change some categories, but what should you replace them with? And how will you know if they’re better than what you already have?</p>
+<p style="text-align: center"><a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">SEO Ecommerce report by PrestaShop</a> (Click on the link to add the report)</p>
+<h2>“This page is no longer at this address”</h2>
+<p>So you’ve built the foundation for your new store. Now you need to let the world know where it is. Enter the <strong>301 redirect</strong>.</p>
+<h4 style="color: #76b32a">What are 301 redirects?</h4>
+<p>When you move house and you want the post office to forward your mail to your new address, you fill out a form that looks something like this:</p>
+<p style="text-align: center">Old postal address -&gt; New postal address</p>
+<p>You have to do the same thing when you move your site, only it’s called a <strong>301 redirect</strong>. When a web page changes URL, you have to tell your server so that all searches can be directed to the new URL:</p>
+<p style="text-align: center">Old URL -&gt; 301 redirect -&gt; New URL</p>
+<h4 style="color: #76b32a">When is a 301 redirect necessary?</h4>
+<ul style="padding-left: 30px">
+<li>When an old page disappears entirely&#8211;redirect this page to your home page.</li>
+<li>When a page changes URL address&#8211;you need to redirect the old URL to the new URL.</li>
+</ul>
+<h4 style="color: #76b32a">When is a 301 redirect not necessary?</h4>
+<ul style="padding-left: 30px">
+<li>When a URL remains the same in the old and new versions of your site.</li>
+<li>When a new page is created within your new structure which did not exist before.</li>
+</ul>
+<h4 style="color: #76b32a">How to put 301 redirects into place:</h4>
+<p><strong>Redirect page by page.</strong> This creates a link between your old structure and the new website. It’s more precise for Google, and it provides a smoother SEO transition.</p>
+<p><strong>Redirect all old URLs to your new ecommerce website home page.</strong> This isn’t the most SEO-friendly option, but it’s more appropriate when you have many URLs to migrate or there are no new equivalents for obsolete pages.</p>
+<h4 style="color: #76b32a">How to prepare for 301 redirects</h4>
+<p>Before your technical team can get to work, you need to prepare your URLs. Here’s how:</p>
+<h4 style="color: #76b32a">1. Identify all your site URLs</h4>
+<p>Find your site URLs, old and new using a crawler such as <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> (free) or <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog SEO</a> (paid).</p>
+<p>These tools give you access to the list of URLs from your old and new e-commerce websites and make it easy to export them to an Excel spreadsheet.</p>
+<p><img class="aligncenter size-full wp-image-19436" alt="301 type" src="http://www.prestashop.com/blog/en/files/2015/01/301-type.png" width="720" height="132" /></p>
+<h4 style="color: #76b32a">2. Link the two sites</h4>
+<p>Display the list of URLs from your former site in one column. These URLs must either be redirected to the new equivalent URL or to the home page.</p>
+<p>List the new URLs in a second column.</p>
+<h4 style="color: #76b32a">3. Integrating the 301s</h4>
+<p>If you’re a developer with expert experience in SEO, then by all means integrate the .htaccess file for your new store. Otherwise, I highly recommend that you <strong>call on the expertise of an <a href="https://www.prestashop.com/en/web-agency-partners">SEO expert or developer</a>.</strong></p>
+<h2>The big day has arrived</h2>
+<h4 style="color: #76b32a">When you’re ready to launch your new store:</h4>
+<ul style="padding-left: 30px">
+<li>Place your site under maintenance using the 503 code</li>
+<li>Publish your new website (containing the 301 redirects in the .htaccess file)</li>
+<li>Remove the maintenance code to activate your site.</li>
+<li>Test the 301s immediately by typing an old URL; you should be automatically redirected to the new URL.</li>
+</ul>
+<p>Remember to verify that the http header sent by your server to the old URL is actually the 301 code (with this tool for <a href="https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo?hl=en" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/en-us/firefox/addon/live-http-headers/" target="_blank">Firefox</a>).</p>
+<p>You have successfully completed your migration!</p>
+<p>Be aware that <strong>302 codes are not the same as 301 codes</strong>. They are temporary redirects that don’t transmit SEO information. Make sure your developer is aware of this too!</p>
+<h4 style="color: #76b32a">Was this article helpful?</h4>
+<p>I had the idea for writing this article at a trade show where I met a PrestaShop merchant who was migrating his site and wasn’t aware of 301 redirects.</p>
+<p>If you have questions, issues or ideas for SEO articles that you would like to see addressed in 2015, please tweet us <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a> on Twitter or visit our <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>.</p>
+<p>Also feel free to ask any questions about this article in the comments section below.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/seo-ecommerce-website-redesign/">SEO for Ecommerce Website Redesign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/seo-ecommerce-website-redesign/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How omni-channel marketing can help your small business</title>
+		<link>https://www.prestashop.com/blog/en/omni-channel-marketing-can-help-small-business/</link>
+		<comments>https://www.prestashop.com/blog/en/omni-channel-marketing-can-help-small-business/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 13:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19451</guid>
+		<description><![CDATA[<p>The retail experience is changing as customers turn to their phones, tablets and laptops for their shopping needs. According to a Forrester survey, 70% of shoppers used a mobile phone to research in-store purchases; an MIT report found that 80% check prices online before buying in a store. As a result, the concept of “omni-channel” [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/omni-channel-marketing-can-help-small-business/">How omni-channel marketing can help your small business</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The retail experience is changing as customers turn to their phones, tablets and laptops for their shopping needs. According to a Forrester survey, 70% of shoppers used a mobile phone to research in-store purchases; an MIT report found that 80% check prices online before buying in a store. As a result, the concept of “omni-channel” marketing has replaced more traditional one-to-many marketing techniques.</p>
+<p>While some of the most impressive examples of omni-channel marketing are being done by <a href="http://www.theguardian.com/media-network/media-network-blog/2013/jan/15/luxury-retailers-in-store-tech" target="_blank">larger companies</a>, small businesses can use their lessons to improve the customer experience, build loyalty and generate more sales. In today’s post, we’ll explain what omni-channel means and how omni-channel marketing can help your small business.<br />
+<span id="more-19451"></span></p>
+<h2>Multi-channel vs Cross-Channel vs Omni-channel</h2>
+<p>You’ve probably run into a few different words that describe marketing across multiple channels: do multi-channel, cross-channel and omni-channel ring any bells? While they each have their nuances, they have one thing in common&#8211;the end goal. In today’s hyper-connected retail environment, that goal is to create a seamless, consistent and authentic customer experience wherever, whenever and however you sell.</p>
+<p>This has given rise to what marketers call “omni-channel retail.” Omni is Latin for “all, or of all things,” and for retailers it means connecting and harmonizing information and experience across all channels in which they are present. The latest evolution in multi-channel strategies, it’s been referred to as everything from “cross-channel done right” to a new retail paradigm (some marketing experts take the idea of omni-channel even further, suggesting that the no-boundaries nature of the strategy implies a <a href="http://omnichannel.me/what-is-omnichannel/" target="_blank">new definition</a> of “your” customer.)</p>
+<p>But most importantly, omni-channel implies a complete back-end integration. In practical terms, this means being able to ensure that your customer can do something like look up a product at home online, order it later via smartphone or tablet, and pick it up at a convenient store location on her way home from work.</p>
+<h2>Putting omni-channel marketing to work for ecommerce</h2>
+<p>Whether you have a 100% online business or several brick-and-mortar stores, you can put omni-channel marketing principles to work to increase visibility, generate more conversions and turn visitors into regular customers. We’ve put together some suggestions to get you started.</p>
+<h4 style="color: #46c0d7">Add channels with purpose</h4>
+<p>It can be tempting to want to be everywhere at once, right now. Afterall, that’s what customers want right? Well, yes, but what they want even more is a great experience. To give them that, you may need to focus on building a quality presence in one or two channels at first, to justify expanding into others and to guarantee that you do so in the most effective way. Be clear about why you are entering a new channel and what your goal is. If you haven’t mastered day-to-day business on your ecommerce store, you might not be ready to open a physical store just yet.</p>
+<h4 style="color: #46c0d7">Build trust through consistency</h4>
+<p>One of the building blocks of omni-channel marketing is consistency. Make sure that prices in your online store, across marketplaces and in your physical store (if you have one) are consistent, and that customers have access to the same discounts everywhere. If you’re using targeted discounts to drive people to a specific channel&#8211;exclusive online deals&#8211;make sure that these are clearly indicated so that people know they can trust your prices wherever they shop.</p>
+<p>Another element of consistency is projecting a coherent brand image. This could be as simple as making sure your site design matches your flyers at the farmers market where you sell on Saturdays. Or it could mean ensuring that in-store staff have access to the same level of customer order information as online-help staff so that customers receive swift service no matter where they purchased.</p>
+<h4 style="color: #46c0d7">Streamline with behind-the-scenes organization</h4>
+<p>Inventory is a key consideration in an omni-channel strategy. Many customers use the internet for research before heading to the store to buy; others visit stores to try on items, then go home to order them on their tablet. Be ready to serve them both! If a customer discovers your product online, you need to be sure that it will be available in-store and vice-versa.</p>
+<p>Logistics is another area where merchants can reinforce the coherence necessary to pull off an omni-channel strategy. Ensure that customers have options: they’ll be delighted to learn they can pay online and pick up at a physical location, or browse in-store and have their purchase shipped.</p>
+<p>Finally, customers expect a fast, simple secure checkout, no matter where they are. And they don’t want any limitations on payment options, so make sure you support everything from cash to a digital wallet, depending on your channels.</p>
+<h4 style="color: #46c0d7">Get personal</h4>
+<p>With consistency, personalization is a defining characteristic of omni-channel. Customers expect you to talk to their unique experience and needs. Small businesses have an advantage over the giants here because they tend to cater to a smaller customer niche and offer a much higher level of service. Use sales data to create tailored marketing campaigns and a personalized shopping experience with well-curated item suggestions and surprise offers.</p>
+<h4 style="color: #46c0d7">Engage with your customers</h4>
+<p>The only way to provide a personalized experience is to get to know your customers. Use social media to listen to their needs Also, be prepared to let your customer decide how often and when they want to engage with you. Make social media and commentary easy to use; let your customers decide how often they want to receive your newsletter.</p>
+<h2>Key takeaways</h2>
+<ul>
+<li>Favor quality over quantity and enter channels with purpose</li>
+<li>Build trust through brand and price consistency across channels</li>
+<li>Streamline inventory, shipping and payment with behind-the-scenes organization</li>
+<li>Use customer data to create a personalized shopping experience</li>
+<li>Engage with your customers through social media</li>
+</ul>
+<p>Omni-channel techniques aren’t just for the big guys. Small businesses can benefit from creating an integrated, consistent and personalized shopping experience for their customers. Do you have an omni-channel strategy? Share what’s working for you.</p>
+<p>If you’re not selling online yet, check out <a href="https://www.prestashop.com/">PrestaShop’s ecommerce software</a> to create your online shop and sell through another retail channel.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/omni-channel-marketing-can-help-small-business/">How omni-channel marketing can help your small business</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/omni-channel-marketing-can-help-small-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 Golden Rules for Optimizing Your Payment Page and Boosting Conversion</title>
+		<link>https://www.prestashop.com/blog/en/4-golden-rules-optimizing-payment-page-boosting-conversion/</link>
+		<comments>https://www.prestashop.com/blog/en/4-golden-rules-optimizing-payment-page-boosting-conversion/#comments</comments>
+		<pubDate>Thu, 22 Jan 2015 07:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19414</guid>
+		<description><![CDATA[<p>Most customers who go into a brick and mortar spend some money before they leave. But typically only a small percentage of Internet users make a purchase. How can you improve your conversion rate? That&#8217;s the question that every merchant asks themselves. Site design, videos, and multiple product photos with different angles all have a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/4-golden-rules-optimizing-payment-page-boosting-conversion/">4 Golden Rules for Optimizing Your Payment Page and Boosting Conversion</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Most customers who go into a brick and mortar spend some money before they leave. But typically only a small percentage of Internet users make a purchase. How can you improve your conversion rate? That&#8217;s the question that every merchant asks themselves.<br />
+Site design, videos, and multiple product photos with different angles all have a strong influence on a customer&#8217;s decision to make a purchase from a website. But the payment page is another strategic point for optimizing your conversions.</p>
+<p>David Chaouat, Partner Manager at Ingenico Payment Services, is an expert in online payment services. Here he reveals 4 golden rules to quickly optimize your payment page and boost your conversion rate.<br />
+<span id="more-19414"></span></p>
+<h2 style="color: #73bd43;">1. Elements of credibility</h2>
+<p>It&#8217;s fundamental to provide an atmosphere of trust throughout the purchasing experience. If customers don&#8217;t trust your e-commerce site, they won&#8217;t finalize their purchases with you!<br />
+Think hard about the customer experience that you would like to offer at checkout. If your brand is not very well-known, or isn&#8217;t yet a recognized name in the marketplace, you should consider a visible redirect to a trusted third party page (PSP or bank). That way you can rely on a known partner, and benefit from their trustworthiness (SSL Certificates, transaction references, banking partner logos, etc.)<br />
+If your brand is already well-known and trustworthy, then you can choose an integrated order gateway where the redirect to the trusted third party is invisible. In that case, don&#8217;t forget the essential elements for the payment page: SSL certificate, the amount of the transaction, the transaction reference number and a trusted logo that&#8217;s well-known on the marketplace (such as a bank, PSP, Verisign, etc.)</p>
+<h2 style="color: #73bd43;">2. Offer payment methods adapted to your customers</h2>
+<p>When you let your customers choose how to pay, they&#8217;ll be more inclined to complete their purchase. For example: a Dutch customer might prefer to pay with iDEAL while a French customer might prefer to use a credit card. So make sure that your payment partner offers you the necessary payment methods, and that they are easy and clear to use.<br />
+Then, adapt your payment page, dynamically displaying payment methods according to your customers&#8217; location or nationality. Don&#8217;t display every payment method each time. Segment your customers to include only the relevant payment methods.</p>
+<h2 style="color: #73bd43;">3. Customize the page design with your store&#8217;s look</h2>
+<p>So that there&#8217;s not a visual break between your site and the service provider&#8217;s payment page, you should do something to customize it. The important thing is for the page to be clear and fluid: just putting your logo in, and using your site&#8217;s fonts and colours is typically enough to make it seem smooth. If you can, think about putting a phone number on this page so you can recover the sale if there&#8217;s a problem.<br />
+For those customers who might be unsettled by the redirect, you can also add a home button and links giving different ways to return to your site. Customers these days are better informed, and have come to expect external payment pages on sites. They&#8217;re no longer as unsettled by a redirect.</p>
+<h2 style="color: #73bd43;">4. A payment page that adapts to every format</h2>
+<p>Your site is no doubt already set up for different formats (PC, tablet, smartphone). It would be a pity to ruin all of your efforts by only offering one payment page format. The payment page must also be fluid and practical for customers browsing on their smartphone. It’s easier for customers to finalize a purchase if they don&#8217;t have to zoom and scroll to enter their card number.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18265" alt="ingenico" src="http://www.prestashop.com/blog/en/files/2015/01/ingenico.jpg" width="480" height="197" /></p>
+<p>Ingenico Payment is the ideal partner to help you put the advice from this article into practice and boost your sales. When you download the Ingenico Payment payment module, you&#8217;re also protecting your company from fraud and ensuring your online business will run smoothly and successfully!</p>
+<p><a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/1798-ogone.html" target="_blank">Download Ingenico Payment for free</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/4-golden-rules-optimizing-payment-page-boosting-conversion/">4 Golden Rules for Optimizing Your Payment Page and Boosting Conversion</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/4-golden-rules-optimizing-payment-page-boosting-conversion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Counter-Intuition: Why a Tighter Selection Means More Sales</title>
+		<link>https://www.prestashop.com/blog/en/counter-intuition-tighter-selection-means-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/counter-intuition-tighter-selection-means-sales/#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 10:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Shabbir Nooruddin (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19392</guid>
+		<description><![CDATA[<p>When you sell online, it&#8217;s tempting to want to carry as much as you can in your store &#8211; after all, more products equals more sales &#8211; right? The more products you have, the greater the likelihood that someone browsing your store will find something they want or like, and buy it &#8211; right? Sure [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/counter-intuition-tighter-selection-means-sales/">Counter-Intuition: Why a Tighter Selection Means More Sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>When you sell online, it&#8217;s tempting to want to carry as much as you can in your store &#8211; after all, more products equals more sales &#8211; right?</p>
+<p>The more products you have, the greater the likelihood that someone browsing your store will find something they want or like, and buy it &#8211; right?</p>
+<p>Sure &#8211; if your store happens to be Amazon or Walmart. But if you&#8217;re a small business owner like the rest of us, then good luck trying to sell that kind of catalog.</p>
+<p><span id="more-19392"></span></p>
+<h4><span style="color: #2f5288">What Amazon and Walmart do</span></h4>
+<p>Amazon and Walmart have been around for years. In that time, they&#8217;ve perfected the art of being “everything” stores &#8211; it&#8217;s the very concept their brands are founded on.</p>
+<p>To be “everything” stores, they have to buy in bulk, spend millions of dollars securing inexpensive inventory, sell everything at super-tight margins and expect to make up any losses through volume.</p>
+<p>They also spend millions and millions of dollars on advertising to reach customers &#8211; in fact, Amazon is one of the <a title="Google Adwords" href="http://www.wordstream.com/articles/google-earnings" target="_blank">largest consumers of Google Adwords</a>.</p>
+<p>You may have noticed that I used the word “millions” a few times in the above paragraphs. Unless you have millions to spend on advertising &#8211; I know I sure don&#8217;t &#8211; it&#8217;s highly unlikely that you can sell everything and be successful at it.</p>
+<h4><span style="color: #2f5288">What the rest of us (shouldn&#8217;t) do</span></h4>
+<p>While most people new to ecommerce don&#8217;t make the cardinal sin of listing everything on their store, they still try to carry too much.</p>
+<p>The problem with listing too much is that you stretch yourself too thin &#8211; think “jack-of-all-trades, master of none.”</p>
+<p>So what do I mean by “too much”? Well, lets say you wanted to open a store in the coffee niche. A new store selling “too much” in the coffee niche would try to offer every coffee machine ever made, as well as filters and hundreds of different coffees.</p>
+<p>The reason Amazon can get away with being a jack-of-all-trades is that they&#8217;ve spent the better part of 20 years nurturing trust in that brand image. A new store that tries to sell a similar variety of products doesn&#8217;t command the same respect and will struggle to win over customers.</p>
+<h4><span style="color: #2f5288">Less is more</span></h4>
+<p>In ecommerce, less is sometimes more for small businesses. If you&#8217;re selling something that can be found on Amazon, you have to be very good to be profitable. To position yourself against the bigger players, it sometimes helps to have a tighter product selection.</p>
+<p>A tighter product selection suggests expertise. Nobody goes to Amazon and thinks, “Man, these guys are experts about what they sell. I&#8217;m sure they&#8217;ll be able to answer any questions I have.”<br />
+In fact, because there&#8217;s so little product-specific information available on Amazon, an entire industry of websites specializing in product reviews exists &#8211; to direct people right to Amazon!</p>
+<p>Now, if you head to a boutique ecommerce store specializing in one product line, you know those guys are experts &#8211; they&#8217;ll listen to your concerns and help you choose the right product for your needs. They serve the dual role of product review website and online store.</p>
+<h4><span style="color: #2f5288">Niche down</span></h4>
+<p>What does it mean to “niche down”? Very simply, it means to remove products and tighten your offer to respond to a more specific customer need. To understand what products to cut, you must first understand your customer.</p>
+<p><a title="Andrew Youderian" href="http://www.ecommercefuel.com/inside-relaunch-online-store/" target="_blank">Andrew Youderian figured out</a>, for example, that most of his former trolling motor shop customers were actually looking for bow mount trolling motors, so he niched down from trolling motors to the more specific bow mount trolling motors.</p>
+<p>If you&#8217;ve already got a store up and running, go through your orders and try to identify some trends &#8211; chances are some of your products are selling much, much better than others &#8211; that&#8217;s where your opportunity lies. Identify the need and focus your marketing efforts on those areas where you are already seen as an expert.</p>
+<p>If you haven&#8217;t got a store yet, go through subreddits and forums related to your future market to find common denominators or trends. You can start building your store around a need. Another approach is to cast a wider net when you first start out, with the intent to specialize as trends begin to appear.</p>
+<h4><span style="color: #2f5288">Key takeaways</span></h4>
+<p>When it comes to small business ecommerce, less is more. Once you have your audience and customer base down, then you can think about expanding your selection with carefully curated products that you know your audience will love and want to buy.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/counter-intuition-tighter-selection-means-sales/">Counter-Intuition: Why a Tighter Selection Means More Sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/counter-intuition-tighter-selection-means-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Remedies for the Post-Holiday Ecommerce Sales Slump</title>
+		<link>https://www.prestashop.com/blog/en/3-remedies-post-holiday-ecommerce-sales-slump/</link>
+		<comments>https://www.prestashop.com/blog/en/3-remedies-post-holiday-ecommerce-sales-slump/#comments</comments>
+		<pubDate>Tue, 20 Jan 2015 09:33:41 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19408</guid>
+		<description><![CDATA[<p>Christmas may be over and gone, but opportunities for making online sales aren’t. In fact, the post-holiday season is more interesting than ever for ecommerce stores, thanks to the rise in popularity of gift cards and online shopping in general. Many shoppers eschew holiday sales entirely for certain items, instead waiting to pounce after the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-remedies-post-holiday-ecommerce-sales-slump/">3 Remedies for the Post-Holiday Ecommerce Sales Slump</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Christmas may be over and gone, but opportunities for making online sales aren’t. In fact, the post-holiday season is more interesting than ever for ecommerce stores, thanks to the rise in popularity of gift cards and online shopping in general.</p>
+<p>Many shoppers eschew holiday sales entirely for certain items, instead waiting to pounce after the New Year when they know the same products will go for a fraction of the price. While deep post-holiday discounts are the most common strategy for clearing out inventory, when done haphazardly they can seem like desperate cries for help.<br />
+<span id="more-19408"></span></p>
+<p>Here are a few alternative ideas to ensure healthy business after the holiday rush, and cultivate good relationships with new and existing customers.</p>
+<h2 style="color: #5e8f71">Returns and exchanges</h2>
+<p>Your customers are burnt out from the holidays and dreading the entire return-and-exchange process. If you can make the experience easy, or better yet, pleasant for them, you can turn this dreary aspect of the holidays into an opportunity to build customer loyalty.</p>
+<p><strong>Unsatisfied customers are people too</strong><br />
+You worked hard to deck out your online shop for the holidays and make sure your customers had a stellar experience. Don&#8217;t stop now; returns and exchanges may not be fun, but they provide a great opportunity to impress your customers with attentive, personalized service.</p>
+<p><strong>Lend a listening ear with instant chat</strong><br />
+The best way to ease the returns and exchange process is to have a simple policy clearly stated on your shop site. Back this up with enhanced <span style="text-decoration: underline">live chat</span> capabilities—this is your chance to show off your customer service skills with friendly, real-time help. As an added bonus, personalize your live chat windows with photos of real people, not stock shots.</p>
+<p><strong>Reduce returns with an incentive they can&#8217;t refuse</strong><br />
+Looked at in another light, a return can be a great opportunity to convert a long-term customer. Why not offer free shipping or a modest discount if the customer decides to make an exchange instead of asking for a refund? They get a pleasant surprise and you get renewed business.</p>
+<h2 style="color: #5e8f71">Deals and discounts that make a difference</h2>
+<p>We wouldn&#8217;t usually tell you to compete on price, but the holiday and post-holiday period is a unique time when customers expect discounts. That doesn&#8217;t mean you have to do what everyone else is doing; find a unique way to stand out as customers get ready to spend their Christmas loot and cash in on gift cards. Try one of these:</p>
+<p><strong>Give back a bit of what you get</strong><br />
+An interesting way to differentiate yourself is to give a portion of proceeds to a charity you support. After months in the consumerist tornado that is the holiday season, many people are happy to see some of their money support a good cause.</p>
+<p><strong>Buy one, get this free</strong><br />
+If you’ve got excess inventory to move, consider offering a free product with the purchase of a full-price item. This works very well with perishable or time-sensitive products, like seasonal fashion items: throw in a printed scarf for every pair of full-price jeans purchased. Even if you only break even on those items, you’ve saved yourself invenotry costs and shelf space by moving products that would have otherwise gone to waste.</p>
+<p><strong>Bundle up</strong><br />
+If you have complimentary products that you need to get rid of, consider bundling them and targeting customers who bought a related item. Accessories and refills are great candidates for this move: picks and strings for a new guitar; chargers, adapters and cases for phones. Mix and match to see what works for your business.</p>
+<p><strong>A good old-fashioned contest</strong><br />
+Drum up interest with a contest: ask customers to submit their favorite holiday photos or best image of your product in use. Everyone who participates wins, even if it’s just 5% off their next purchase. Use the contest to promote a new or best-selling product and award one to the winner.</p>
+<p><strong>Say thank you</strong><br />
+Your store’s success leans heavily on customer loyalty, so why not thank your customers for making your year a great one? Offer them a small discount that they can pass on to friends and family. It’ll give them a reason to visit your store in January and maybe even attract a few new visitors.</p>
+<p><strong>The undiscount: a new product for the new year</strong><br />
+A new product launch is a great way to get customers’ attention without slashing prices. You’ll need to be organized to pull it off, but if you do it right, you can take advantage of new year momentum to make a big impact.</p>
+<h2 style="color: #5e8f71">Lessons and resolutions</h2>
+<p>The post-holiday season is also a good time to take stock of the past year in order to prepare for the one coming up. While you’ll certainly be discounting some items and working to clear inventory for new products, it’s important to take the time to do important marketing work that will put you on track for the NEXT holiday season.</p>
+<p><strong>Mind your data</strong><br />
+The holiday season should have given you a wealth of data about your customers. You can use it to segment your contact list and push personalized offers on products you want to move to the customers you’re sure will be interested. For example, if you know who bought a phone this year, send an email offering an accessory bundle. Or if you’re an apparel store with excess items in a few select sizes, send targeted offers to customers you know have bought those sizes previously. You avoid swamping customers with offers that won’t interest them.</p>
+<p><strong>Pay attention to purchasing patterns</strong><br />
+You’ll have learned a lot about your customers this holiday season, but also quite a bit about your products. What is selling full price? What goes on sale? Use this data to tailor your marketing and evaluate which products you should be marking down to move and which are going to carry you through the year.</p>
+<ul style="margin-left: 30px">
+<li><strong style="color: #5e8f71">Well-performing products:</strong> The holidays probably gave you a good idea of what products people are willing to pay full price for. These are good items to build bundles and promotions around now and to focus marketing efforts on throughout the year.</li>
+<li><strong style="color: #5e8f71">Products with promise:</strong> Do some products attract a lot of attention but few conversions? Try promoting them with a light post-holiday sale or simply put them in the spotlight when you communicate with customers.</li>
+<li><strong style="color: #5e8f71">Troubled products:</strong> if certain products only sell well at a discount it might be time to clear them out. Post-holiday sales are a great opportunity to make a special “Clearance” category. These are products that might also bundle well.</li>
+</ul>
+<p><strong>Don’t neglect abandoned carts</strong><br />
+Many customers use carts in lieu of a wish list. They often expect to receive a reminder about their cart, so don’t miss this opportunity to follow up and recoup unfinished sales.</p>
+<p><strong>Show off your social skills </strong><br />
+The holidays may be over, but don’t shelve your marketing efforts just yet. Use social media to keep the conversation going. If you decide to incorporate a charity donation, social media is a great way to engage your customers and raise awareness. The same goes for if you hold a post-holiday contest.</p>
+<p><strong>Take down the holiday decorations (and deals!)</strong><br />
+This is one that’s easy to do, but also easy to overlook. Unfortunately, the consequences of forgetting could be unpleasant for your reputation and your bottom line. If you promised free shipping during the holidays, be sure to remove it from your promotional tools if you don’t plan on continuing in the new year. Did you make a low-price guarantee during the holidays that your post-holiday sale is going to conflict with? Do this now so you can move on to more important things.</p>
+<h2 style="color: #5e8f71">Key takeaways</h2>
+<ul style="margin-left: 30px">
+<li>Personalize the returns and exchange process</li>
+<li>Use incentives to convert returns into exchanges or even purchases</li>
+<li>Avoid relying solely on deep discounts; make creative offers</li>
+<li>Thank your customers</li>
+<li>Use data to segment customers and target marketing efforts</li>
+<li>Analyze product performance and market accordingly</li>
+<li>Follow up on abandoned cards</li>
+<li>Be social in the new year</li>
+<li>Review holiday promises and take down decorations</li>
+</ul>
+<p>The holidays are over, but the new year is just beginning. What are you doing to make sure it’s a successful one? Have you tried any of these suggestions? Let us know what’s working for you!</p>
+<hr align="left" size="2" width="20%" />
+<p>Ready to make 2015 your best year yet? Get started with our updated 2015 <a href="http://www.prestashop.com/en/ecommerce-calendar">ecommerce calendar</a>. From expert advice to key sales dates, it has everything you need to prepare your year.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-remedies-post-holiday-ecommerce-sales-slump/">3 Remedies for the Post-Holiday Ecommerce Sales Slump</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-remedies-post-holiday-ecommerce-sales-slump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Ecommerce Design Trends for 2015</title>
+		<link>https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/</link>
+		<comments>https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/#comments</comments>
+		<pubDate>Mon, 19 Jan 2015 10:01:19 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19356</guid>
+		<description><![CDATA[<p>Is 2015 the year you finally get around to updating your website design? Then you’re in luck! PrestaShop has handpicked a few examples of the latest ecommerce web design trends to help you develop an updated design adapted to your business. Use this list as a guide for template and module research, or as a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/">5 Ecommerce Design Trends for 2015</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Is 2015 the year you finally get around to updating your website design? Then you’re in luck! PrestaShop has handpicked a few examples of the latest ecommerce web design trends to help you develop an updated design adapted to your business. Use this list as a guide for template and module research, or as a reference when discussing changes with your designer.<br />
+<span id="more-19356"></span></p>
+<h2 style="color: #45394d">1. Full-screen images</h2>
+<p>If you’ve worked hard developing beautiful product photography, then you’ll be ready to ride the full-screen image trend. While the home slider is where large images tend to shine, that’s not the only place you can use them effectively. Check out how <span style="font-style: italic">New World Order NYC</span> is using them as background for their product pages.</p>
+<p style="text-align: center"><a href="http://www.suncoo-paris.com/en/" target="_blank"><img class="aligncenter  wp-image-19361" style="border: 1px solid #dce1e5" title="Suncoo Paris" alt="Suncoo Paris" src="http://www.prestashop.com/blog/en/files/2015/01/big-image-suncoo-paris.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.basus.fr/en/" target="_blank"><img class="aligncenter size-full wp-image-19357" style="border: 1px solid #dce1e5" title="Basus" alt="Basus" src="http://www.prestashop.com/blog/en/files/2015/01/big-images-basus.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.menzclub.com.au/" target="_blank"><img class="aligncenter  wp-image-19358" style="border: 1px solid #dce1e5" title="Menzclub" alt="Menzclub" src="http://www.prestashop.com/blog/en/files/2015/01/big-images-menzclub.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.tb-groupe.fr/" target="_blank"><img class="aligncenter  wp-image-19359" style="border: 1px solid #dce1e5" title="TB Groupe" alt="TB Groupe" src="http://www.prestashop.com/blog/en/files/2015/01/big-images-tb-groupe.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://thenewworldordernyc.com/" target="_blank"><img class="aligncenter  wp-image-19360" style="border: 1px solid #dce1e5" title="The New World Order NYC" alt="The New World Order NYC" src="http://www.prestashop.com/blog/en/files/2015/01/big-images-thenewworldordernyc.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.april77.fr/en/" target="_blank"><img class="aligncenter  wp-image-19362" style="border: 1px solid #dce1e5" title="April77" alt="April77" src="http://www.prestashop.com/blog/en/files/2015/01/big-screen-april77.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.bimbaylola.com/" target="_blank"><img class="aligncenter  wp-image-19363" style="border: 1px solid #dce1e5" title="Bimba y lola" alt="Bimba y lola" src="http://www.prestashop.com/blog/en/files/2015/01/big-screen-bimba-y-lola.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">2. Flat and Material Design, Bright Colors</h2>
+<p>2014 was the year of <a href="http://www.awwwards.com/websites/flat-design/" target="_blank">Flat Design</a>, characterized by flat colors, minimalist design and simple typography, all used to eliminate any impression of three dimensions. This year we’ll be seeing more of <a href="http://www.google.com/design/spec/material-design/introduction.html" target="_blank">Material Design</a>, a design language developed by Google that draws its inspiration from the textural world of paper and ink. Both design trends rely on strong graphic design, so be brave and use bright colors in your site, especially if your brand is young and has a sense of humor.</p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19371" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/en/files/2015/01/colors-m-moustache2.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.m-moustache.com/en/robert/169-leon-cuir-noir.html" target="_blank"><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="M Moustache" alt="M Moustache" src="http://www.prestashop.com/blog/en/files/2015/01/colors-m-moustache.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.loobow.fr/103-wc-couleur-jaune-gamme-yellow-cab" target="_blank"><img class="aligncenter  wp-image-19369" style="border: 1px solid #dce1e5" title="Loobow" alt="Loobow" src="http://www.prestashop.com/blog/en/files/2015/01/colors-loobow.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.bioseptyl.fr/brosses-a-dents-adultes/8-blanche-nurse.html" target="_blank"><img class="aligncenter  wp-image-19368" style="border: 1px solid #dce1e5" title="Bioseptyl" alt="Bioseptyl" src="http://www.prestashop.com/blog/en/files/2015/01/colors-bioseptyl.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.pa-design.com/en/" target="_blank"><img class="aligncenter  wp-image-19372" style="border: 1px solid #dce1e5" title="pa Design" alt="pa Design" src="http://www.prestashop.com/blog/en/files/2015/01/colors-pa-design.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">3. Flashcards</h2>
+<p>Give visitors everything they need to know about your product at a glance: develop a “flashcard” for each product that contains product name and description, social sharing buttons, price and of course, a “Buy Now” call-to-action button.</p>
+<p style="text-align: center"><a href="http://www.theverge.com/a/holiday-gift-ideas-2014/25-100" target="_blank"><img class="aligncenter  wp-image-19365" style="border: 1px solid #dce1e5" title="The Verge Holiday Gift Ideas" alt="The Verge Holiday Gift Ideas" src="http://www.prestashop.com/blog/en/files/2015/01/cards-the-verge-holiday-gift-ideas.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://wallcaps.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19366" style="border: 1px solid #dce1e5" title="Wallcaps" alt="Wallcaps" src="http://www.prestashop.com/blog/en/files/2015/01/cards-wallcaps.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.wannabk.com/" target="_blank"><img class="aligncenter  wp-image-19367" style="border: 1px solid #dce1e5" title="Wannabek" alt="Wannabek" src="http://www.prestashop.com/blog/en/files/2015/01/cards-wannabek.png" width="657" height="400" /></a></p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://housen.ro/" target="_blank"><img class="aligncenter  wp-image-19364" style="border: 1px solid #dce1e5" title="Housen" alt="Housen" src="http://www.prestashop.com/blog/en/files/2015/01/cards-housen-ro.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">4. Parallax</h2>
+<p>You’ve probably been stopped by more than one website with tantalizing background animation. That’s the parallax effect. While it can be very impressive when used correctly, it’s also easy to go overboard and lose sight of your main goal: presenting your products. Remember, animation and effects should support sales, not overshadow website design. Here, Manoush animates page navigation while their colorful patterns liven up the background without distracting from the products themselves.</p>
+<p style="text-align: center;margin-bottom: 70px"><a href="http://www.manoush.com/e-shop/" target="_blank"><img class="aligncenter  wp-image-19375" style="border: 1px solid #dce1e5" title="Manoush" alt="Manoush" src="http://www.prestashop.com/blog/en/files/2015/01/parallax-manoush.png" width="657" height="400" /></a></p>
+<h2 style="color: #45394d">5. Minimalist Buttons</h2>
+<p>Buttons with a minimalist design subtly suggest a call to action, without taking away from beautiful background images. They’re particularly useful if you need to include a call to action in your main slider.</p>
+<p style="text-align: center"><a href="http://www.zeina-alliances.com/" target="_blank"><img class="aligncenter  wp-image-19374" style="border: 1px solid #dce1e5" title="Zeina" alt="Zeina" src="http://www.prestashop.com/blog/en/files/2015/01/minimal-buttons-zeina.png" width="657" height="400" /></a></p>
+<p style="text-align: center"><a href="http://www.oelwein.fr/fr/" target="_blank"><img class="aligncenter  wp-image-19373" style="border: 1px solid #dce1e5" alt="Oelwein" src="http://www.prestashop.com/blog/en/files/2015/01/minimal-buttons-oelwein.png" width="657" height="400" /></a></p>
+<h4 style="color: #73bd43">Key takeaways</h4>
+<p><strong style="color: #73bd43">1.</strong> Showcase great photography through full-screen images</p>
+<p><strong style="color: #73bd43">2.</strong> Flat and material design will remain strong web design trends in 2015</p>
+<p><strong style="color: #73bd43">3.</strong> Product flashcards give customers everything they need at a glance</p>
+<p><strong style="color: #73bd43">4.</strong> Be prudent with parallax</p>
+<p><strong style="color: #73bd43">5.</strong> Simplify call-to-action buttons to keep attention focused on images</p>
+<p>These are just a few of the ecommerce design trends that we can look forward to in 2015. What design trends are you looking forward to following? Discover what’s best for your business and renew your online shop by using one of <a href="http://addons.prestashop.com/en/3-templates-prestashop" target="_blank">our themes</a> or get in touch with one of our <a href="https://www.prestashop.com/en/web-agency-partners" target="_blank">associated web agencies</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/">5 Ecommerce Design Trends for 2015</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Ecommerce Calendar: 52 Secrets for a Successful 2015</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-calendar-52-secrets-for-a-successful-2015/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-calendar-52-secrets-for-a-successful-2015/#comments</comments>
+		<pubDate>Thu, 08 Jan 2015 14:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/en/?p=19243</guid>
+		<description><![CDATA[<p>Forget about New Year&#8217;s resolutions, we’ve got you covered! Put an end to all those good New Year’s Day intentions that evaporate mid-month (really, has any resolution made it past January 15th?). This year, we&#8217;re going to help you make real progress all 52 weeks of the year. Being an online retailer means doing 12 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-calendar-52-secrets-for-a-successful-2015/">Ecommerce Calendar: 52 Secrets for a Successful 2015</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Forget about New Year&#8217;s resolutions, we’ve got you covered!</p>
+<p>Put an end to all those good New Year’s Day intentions that evaporate mid-month (really, has any resolution made it past January 15<sup>th</sup>?).</p>
+<p>This year, we&#8217;re going to help you make real progress all 52 weeks of the year.</p>
+<p><span id="more-19243"></span></p>
+<p>Being an online retailer means doing 12 jobs at once – developer, accountant, logistics coordinator, designer, editor, salesperson – which makes it difficult to plan ahead and prioritize.</p>
+<p>To help make your store a success this year, we&#8217;re delighted to present the <a href="http://www.prestashop.com/en/ecommerce-calendar" target="_blank">2015 Ecommerce Calendar</a><b>, broken down week by week and adapted to country-specific markets and events</b>.</p>
+<h2 style="color: #4d7e3d">12 pages of tools and advice</h2>
+<p><b>Each week</b>, <b>you’ll find a tip</b> for boosting traffic or conversion rates, or an idea for enhancing user experience, increasing average cart value, gaining customer loyalty, and more.</p>
+<p>To make life easier, we also suggest a <b>selection of tools</b>—to help you create promotions and improve communication, for example—that will save you time when managing your store.</p>
+<p>Is a <b>major sales event</b> coming up – the Back to School season, Christmas, Mother&#8217;s Day, Black Friday? No problem! You&#8217;ll have everything you need to plan ahead and understand <b>how and when to start getting your store ready</b>.</p>
+<p>Each month, a PrestaShop merchant will share <b>advice</b> that has contributed to his or her success.</p>
+<p>And if you&#8217;re not used to taking it easy, we&#8217;ll even tell you when it&#8217;s time to relax!</p>
+<h2 style="color: #4d7e3d">Customize your calendar</h2>
+<p>The tips are suggestions from experts on how to enhance your website, help you get organized, and show you your online store in a whole new light.</p>
+<p>The calendar also contains sections that need to be filled in &#8211; by you.</p>
+<p><b>Your store is unique</b>. You know your customers, products and website culture better than anyone else. Write in all the events that you would like to organize throughout the year, now.</p>
+<h2 style="color: #4d7e3d">Key figures</h2>
+<h4>THE 2015 E-COMMERCE CALENDAR:</h4>
+<ul style="margin: 0 0 0 15px">
+<li>0 cents to download</li>
+<li>1 circular calendar showing peak periods in the year at a glance</li>
+<li>8 countries included (France, Spain, the US, Italy, Germany, the Netherlands, the UK and Poland)</li>
+<li>12 customized pages with advice from real merchants</li>
+<li>52+ ecommerce tips</li>
+<li>327 recent online store audits, which inspired us to make this calendar for you!</li>
+</ul>
+<p>&nbsp;</p>
+<p>Next year we hope to offer calendars for even more countries.</p>
+<p>Do you want to help?</p>
+<p>Let us know about any major events in your region, or tips you&#8217;d like to share with other merchants in your country, using the email address <a href="mailto:calendar@prestashop.com">calendar@prestashop.com</a>.</p>
+<p>Wishing you a fantastic 2015 and a successful ecommerce year!</p>
+<p><span style="line-height: 1.5">A thank you to </span><a style="line-height: 1.5" title="Pagination.com" href="http://www.pagination.com" target="_blank">Pagination.com</a><span style="line-height: 1.5"> for its help integrating the template and data.</span></p>
+<p style="text-align: center;font-size: 18px"><a href="http://www.prestashop.com/en/ecommerce-calendar" target="_blank">Download calendar now</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-calendar-52-secrets-for-a-successful-2015/">Ecommerce Calendar: 52 Secrets for a Successful 2015</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-calendar-52-secrets-for-a-successful-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Credit Cards vs. Fraudsters: The Evolution of Credit Card Security [Infographic]</title>
+		<link>https://www.prestashop.com/blog/en/credit-cards-vs-fraudsters-the-evolution-of-credit-card-security/</link>
+		<comments>https://www.prestashop.com/blog/en/credit-cards-vs-fraudsters-the-evolution-of-credit-card-security/#comments</comments>
+		<pubDate>Thu, 08 Jan 2015 13:30:27 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/en/?p=19259</guid>
+		<description><![CDATA[<p>Did you know that in 2009, over half a million credit cards were compromised? What about in 2010, Canada alone experienced $366 million in fraud? As online merchants, it’s important to know how credit card security features have evolved to prevent unauthorized credit card use. It’s why today we present this infographic: Credit Cards vs. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/credit-cards-vs-fraudsters-the-evolution-of-credit-card-security/">Credit Cards vs. Fraudsters: The Evolution of Credit Card Security [Infographic]</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Did you know that in 2009, over half a million credit cards were compromised? What about in 2010, Canada alone experienced $366 million in fraud?</p>
+<p>As online merchants, it’s important to know how credit card security features have evolved to prevent unauthorized credit card use. It’s why today we present this infographic: Credit Cards vs. Fraudsters: The Evolution of Credit Card Security.</p>
+<p><span id="more-19259"></span></p>
+<p><img class="aligncenter size-full wp-image-19272" title="desjardin" src="http://www.prestashop.com/blog/en/files/2015/01/desjardin.jpg" alt="" width="573" height="4760" /></p>
+<p>This infographic is sponsored by Desjardins, our preferred Canadian payment processor. Start accepting payments on your Canadian online shop by downloading<a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/14656-desjardins.html" target="_blank"> the free Desjardins’ module</a>.</p>
+<p>Seamlessly implement this payment solution to start processing <strong>credit card payments, refunds, and more!</strong> To help you limit credit card risk, all Desjardins accounts include a full range of fraud prevention tools including:</p>
+<ol>
+<ul>
+<li>CVV2 Validation</li>
+<li>3-D Secure Validation</li>
+<li>Fraud Prevention Module with
+<ol>
+<ul>
+<li>Order Filter by IP Address</li>
+<li>Order Filter by Credit Card Number</li>
+</ul>
+</ol>
+</li>
+</ul>
+</ol>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/credit-cards-vs-fraudsters-the-evolution-of-credit-card-security/">Credit Cards vs. Fraudsters: The Evolution of Credit Card Security [Infographic]</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/credit-cards-vs-fraudsters-the-evolution-of-credit-card-security/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

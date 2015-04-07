@@ -1,0 +1,9 @@
+
+[{shop_url}]
+
+Здравей {firstname} {lastname},
+
+{message}
+
+Вело и мото магазин Велона [{shop_url}]
+

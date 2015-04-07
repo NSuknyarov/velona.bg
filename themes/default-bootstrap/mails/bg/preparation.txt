@@ -1,0 +1,8 @@
+
+[{shop_url}]
+
+Здравей {firstname} {lastname},
+
+Поръчката Ви {order_name} се намира в процес на обработка.
+
+{shop_name} [{shop_url}]

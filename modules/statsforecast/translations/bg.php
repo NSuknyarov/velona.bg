@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{statsforecast}prestashop>statsforecast_240c994d8b61c7bd68ac1c5182bbdb2e'] = 'Табло за управление на стистиката.';
+$_MODULE['<{statsforecast}prestashop>statsforecast_d7e637a6e9ff116de2fa89551240a94d'] = 'Посещения';
+$_MODULE['<{statsforecast}prestashop>statsforecast_a28735af01fbb1e35371cb120985ac47'] = 'Регистрации';
+$_MODULE['<{statsforecast}prestashop>statsforecast_12c500ed0b7879105fb46af0f246be87'] = 'Поръчки';
+$_MODULE['<{statsforecast}prestashop>statsforecast_9dea4016dbcc290b773ab2fae678aaa8'] = 'Продукти';
+$_MODULE['<{statsforecast}prestashop>statsforecast_1d34a18a13e480b0aa6a799bb8a49c1b'] = '% заявки';
+$_MODULE['<{statsforecast}prestashop>statsforecast_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Цени';
+$_MODULE['<{statsforecast}prestashop>statsforecast_96b0141273eabab320119c467cdcaf17'] = 'Общо:';
+$_MODULE['<{statsforecast}prestashop>statsforecast_b1897515d548a960afe49ecf66a29021'] = 'Среден';
+$_MODULE['<{statsforecast}prestashop>statsforecast_89c1265be62d3ba835a3d963db5956b0'] = 'Прогноза';
+$_MODULE['<{statsforecast}prestashop>statsforecast_3bb1503332637805beddb73a2dd1fe1b'] = 'Конверсия';
+$_MODULE['<{statsforecast}prestashop>statsforecast_ae5d01b6efa819cc7a7c05a8c57fcc2c'] = 'Посетители';
+$_MODULE['<{statsforecast}prestashop>statsforecast_9b945efebb006547a94415eadaa12921'] = 'Профили';
+$_MODULE['<{statsforecast}prestashop>statsforecast_87cac5a0b60008003ccf46dc1d49e0c3'] = 'Пълни колички';
+$_MODULE['<{statsforecast}prestashop>statsforecast_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Поръчки';
+$_MODULE['<{statsforecast}prestashop>statsforecast_fc26e55e0993a75e892175deb02aae15'] = 'Колички';
+$_MODULE['<{statsforecast}prestashop>statsforecast_e6e42855066e7a3ae050b2c698021b14'] = 'Зона:';
+$_MODULE['<{statsforecast}prestashop>statsforecast_5ed26836c96d7dcae8a40307e8e250c3'] = '-- Няма филтър --';
+$_MODULE['<{statsforecast}prestashop>statsforecast_e55f75a29310d7b60f7ac1d390c8ae42'] = 'Модул';
+$_MODULE['<{statsforecast}prestashop>statsforecast_b3ff996fe5c77610359114835baf9b38'] = 'Зона';
+$_MODULE['<{statsforecast}prestashop>statsforecast_3adbdb3ac060038aa0e6e6c138ef9873'] = 'Категория';
+$_MODULE['<{statsforecast}prestashop>statsforecast_52f39d7c5cad5c1550553385f55277ae'] = '% брой';
+$_MODULE['<{statsforecast}prestashop>statsforecast_41b63feded4acc3719f9bcd016388324'] = '% продажби';
+$_MODULE['<{statsforecast}prestashop>statsforecast_844c29394eea07066bb2efefc35784ec'] = 'Средна цена';
+$_MODULE['<{statsforecast}prestashop>statsforecast_88183b946cc5f0e8c96b2e66e1c74a7e'] = 'Неизвестно';
+$_MODULE['<{statsforecast}prestashop>statsforecast_4994a8ffeba4ac3140beb89e8d41f174'] = 'Език';
+$_MODULE['<{statsforecast}prestashop>statsforecast_699aed86dada6ca01ef74013a4464066'] = 'Растеж';
+$_MODULE['<{statsforecast}prestashop>statsforecast_e93f994f01c537c4e2f7d8528c3eb5e9'] = 'Брой';
+$_MODULE['<{statsforecast}prestashop>statsforecast_ec0fc0100c4fc1ce4eea230c3dc10360'] = 'Неопределен';
+$_MODULE['<{statsforecast}prestashop>statsforecast_386c339d37e737a436499d423a77df0c'] = 'Валута';
+$_MODULE['<{statsforecast}prestashop>statsforecast_61569923d8075889a162c4e603258e6e'] = 'Продажби (конвертирани)';
+$_MODULE['<{statsforecast}prestashop>statsforecast_03937134cedab9078be39a77ee3a48a0'] = 'Група';
+$_MODULE['<{statsforecast}prestashop>statsforecast_f2bbdf9f72c085adc4d0404e370f0f4c'] = 'Атрибут';
