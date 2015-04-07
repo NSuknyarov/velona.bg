@@ -1,1 +1,1 @@
-Experimental repository for velona.bg build with prestashop.
+Experimental repository for velona.bg
